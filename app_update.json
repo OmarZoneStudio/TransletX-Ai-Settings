@@ -1,0 +1,27 @@
+{
+    "android": {
+      "minimum_version": "1.0.1",
+      "latest_version": "1.0.0",
+      "force_update": false,
+      "update_message": "يتوفر إصدار جديد من التطبيق يحتوي على تحسينات وإصلاحات مهمة",
+      "update_url": "'https://t.me/OmarZoneStudio",
+      "features": [
+        "تحسينات في الأداء",
+        "إصلاح مشاكل",
+        "ميزات جديدة"
+      ]
+    },
+    "ios": {
+      "minimum_version": "1.0.1",
+      "latest_version": "1.0.0",
+      "force_update": false,
+      "update_message": "يتوفر إصدار جديد من التطبيق يحتوي على تحسينات وإصلاحات مهمة",
+      "update_url": "https://t.me/OmarZoneStudio",
+      "features": [
+        "تحسينات في الأداء",
+        "إصلاح مشاكل",
+        "ميزات جديدة"
+      ]
+    },
+    "last_updated": "2024-03-20T12:00:00Z"
+  }
